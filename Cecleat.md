@@ -25,5 +25,5 @@ Economy Type: Power Generation
 Economy Details: Power Generation
 Buy: -20
 Sell: 53
-Galaxy Map Image: "[[Cecleat.png]]"
+Map Image: "[[Cecleat.png]]"
 ---

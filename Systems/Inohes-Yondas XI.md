@@ -3,7 +3,7 @@ System: Inohes-Yondas XI
 Region: Ladakhm Instability
 Galaxy: Euclid
 Glyphs URL: https://glyphs.had.sh/1-117D026ED061
-Discovered By: Tatsutron
+Discovered By: tatsutron
 Discovery Date: 2025-04-05
 Star Color: Yellow
 Spectral Class: G7pf 

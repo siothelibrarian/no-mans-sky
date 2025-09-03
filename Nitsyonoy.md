@@ -8,8 +8,7 @@ Region: Obushan
 Galaxy: Euclid
 Description:
 Star Color: Yellow
-Spectral Class:
-  - G5f
+Spectral Class: G5f
 Suns:
 Water: false
 Dissonance: true
@@ -26,5 +25,6 @@ Economy Type: Power Generation
 Economy Details: Power Generation
 Buy: -27
 Sell: 62
-Galaxy Map Image:
+Galaxy Map Image: "[[Nitsyonoy.png]]"
+Map Image: "[[Nitsyonoy.png]]"
 ---

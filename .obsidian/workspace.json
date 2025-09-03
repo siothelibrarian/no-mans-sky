@@ -21,37 +21,8 @@
               "icon": "lucide-table",
               "title": "Systems"
             }
-          },
-          {
-            "id": "dc307e1439adf3f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nasborut.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Nasborut"
-            }
-          },
-          {
-            "id": "0a2a0f76e02f565a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nitsyonoy.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Nitsyonoy"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,13 +91,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nitsyonoy.md",
+                "file": "Systems.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nitsyonoy"
+              "title": "Outline of Systems"
             }
           }
         ],
@@ -139,7 +110,28 @@
   "right": {
     "id": "5e28ece40ffd6dbe",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "105242a4811c0e68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0eff6ef679ccfa5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -159,39 +151,41 @@
   },
   "active": "1ed137923a2d1d3c",
   "lastOpenFiles": [
-    "Galaxy Maps/Nitsyonoy.png",
-    "Nasborut.md",
+    "Ozlovori.md",
+    "Kuyushijo.md",
+    "Anbabul-Kayan XIX.md",
+    "Nezawa.md",
+    "Galaxy Maps/Ozlovori.png",
+    "Planet Maps/Ozlovori.png",
     "Nitsyonoy.md",
-    "Tehama.md",
-    "Galaxy Maps/Tehama.png",
+    "Ozavol XV.md",
     "Systems.base",
+    "Tephiusal I.md",
+    "Cecleat.md",
+    "Tehama.md",
+    "Nasborut.md",
+    "Attigum.md",
+    "Ogxund-Ikean XIII.md",
+    "Carosse-Lomu XIII.md",
+    "Pitiaxus VI.md",
+    "Verilsky.md",
+    "Jongushi.md",
+    "Uppsion-Nagd.md",
+    "Odkasjo-Lodr.md",
+    "Untitled 1.md",
+    "Eskiye-Vidi XIII.md",
+    "Meneshc-Suchi.md",
+    "Galaxy Maps/Nitsyonoy.png",
+    "Galaxy Maps/Tehama.png",
     "Labino.md",
     "Galaxy Maps/Labino.png",
-    "Attigum.md",
     "Ourayski X.md",
     "Myossko.md",
     "Podnich-Inab III.md",
-    "Meneshc-Suchi.md",
-    "Untitled 1.md",
-    "Vedorod-Gafe XIX.md",
-    "Untitled.md",
-    "Ritaic-Hampt.md",
-    "Axilia-Noo.md",
-    "Hutyomo-Aiya.md",
-    "Udutogq.md",
-    "Irfiel.md",
-    "Blacey.md",
-    "Cecleat.md",
     "Galaxy Maps/Cecleat.png",
-    "Leyokin.md",
-    "Rihemi-Amp.md",
-    "Lukkadjar XVIII.md",
-    "Zushin VI.md",
-    "Eudint-Ovy.md",
     "Planet Maps/Labino.png",
     "Planet Maps",
     "Galaxy Maps/Pateleat XV.png",
-    "Pateleat XV.md",
     "Galaxy Map/Pateleat XV 1.png",
     "Galaxy Maps",
     "templates",

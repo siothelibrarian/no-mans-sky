@@ -1,8 +1,8 @@
 ---
 Discovery Date: 2025-03-23
 Discovered By:
-Glyphs URL:
-Portal Code:
+Glyphs URL: https://g.had.sh/1-30BB056EE062
+Portal Code: 30BB056EE062
 System: Jongushi
 Region: Nuguug Conflux
 Galaxy: Euclid
@@ -28,4 +28,7 @@ Buy:
 Sell:
 ---
 
-Mercenary Guild
+## Planets
+
+### Planet 3 
+Portal Code: 30BB056EE062

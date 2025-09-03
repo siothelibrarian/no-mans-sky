@@ -1,8 +1,8 @@
 ---
 Discovery Date: 2025-03-28
 Discovered By:
-Glyphs URL:
-Portal Code:
+Glyphs URL: https://g.had.sh/1-1168046EE061
+Portal Code: 1168046EE061
 System: Ogxund-Ikean XIII
 Region: Wakiha Fringe
 Galaxy: Euclid
@@ -27,3 +27,8 @@ Buy:
 Sell:
 Guild:
 ---
+
+## Planets
+
+### Planet 1
+Portal Cde: 1168046EE061

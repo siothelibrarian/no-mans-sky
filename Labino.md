@@ -13,7 +13,7 @@ Suns:
 Water: true
 Dissonance: false
 Black Hole: false
-Giant:
+Giant: false
 Planets: 3
 Moons: 1
 Local Species: Korvax
@@ -27,6 +27,7 @@ Buy: -24
 Sell: 64
 Planet Map Image: "[[Planet Maps/Labino.png]]"
 Galaxy Map Image: "[[Galaxy Maps/Labino.png]]"
+Map Image: "[[Galaxy Maps/Labino.png]]"
 ---
 
 ## Planets

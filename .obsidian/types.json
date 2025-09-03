@@ -7,7 +7,7 @@
     "Region": "text",
     "Discovery Date": "date",
     "Star Color": "text",
-    "Spectral Class": "multitext",
+    "Spectral Class": "text",
     "Suns": "number",
     "Water": "checkbox",
     "Dissonance": "checkbox",

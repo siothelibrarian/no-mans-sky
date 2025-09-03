@@ -8,8 +8,7 @@ Region: Indtia Quadrant
 Galaxy: Euclid
 Description:
 Star Color: Yellow
-Spectral Class:
-  - F0p
+Spectral Class: F0p
 Suns:
 Water: true
 Dissonance: false
@@ -27,4 +26,5 @@ Economy Details: Scientific
 Buy: -25
 Sell: 40
 Galaxy Map Image: "[[Tehama.png]]"
+Map Image: "[[Tehama.png]]"
 ---

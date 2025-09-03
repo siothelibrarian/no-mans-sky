@@ -1,13 +1,13 @@
 ---
-Discovery Date: 
+Discovery Date: 2025-04-20
 Discovered By:
 Glyphs URL:
 Portal Code:
 System: Attigum
-Region: 
+Region:
 Galaxy: Euclid
 Description:
-Star Color: 
+Star Color:
 Spectral Class:
 Suns:
 Water:
@@ -17,12 +17,12 @@ Giant:
 Planets:
 Moons:
 Local Species:
-Wealth Level: 
-Wealth Details: 
+Wealth Level:
+Wealth Details:
 Conflict Level:
 Conflict Details:
-Economy Type: 
-Economy Details: 
+Economy Type:
+Economy Details:
 Buy:
 Sell:
 ---

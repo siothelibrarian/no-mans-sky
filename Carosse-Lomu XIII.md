@@ -21,8 +21,10 @@ Wealth Level: 3
 Wealth Details: High-Supply
 Conflict Level:
 Conflict Details:
-Economy Type: 
-Economy Details: 
+Economy Type: Technology
+Economy Details: Engineering
 Buy:
 Sell:
 ---
+
+Had Chlorine as of 2025-04-05

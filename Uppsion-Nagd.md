@@ -21,9 +21,11 @@ Wealth Level: 3
 Wealth Details: Prosperous
 Conflict Level:
 Conflict Details:
-Economy Type: 
-Economy Details: 
+Economy Type: Mining
+Economy Details: Mining
 Buy:
 Sell:
 Guild:
 ---
+
+Had Chlorine on 2025-04-05
