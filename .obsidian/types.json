@@ -1,0 +1,28 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Galaxy": "multitext",
+    "Region": "multitext",
+    "Discovery Date": "date",
+    "Star Color": "multitext",
+    "Spectral Class": "multitext",
+    "Suns": "number",
+    "Water": "checkbox",
+    "Dissonance": "checkbox",
+    "Black Hole": "checkbox",
+    "Planets": "number",
+    "Moons": "multitext",
+    "Local Species": "multitext",
+    "Wealth Level": "number",
+    "Wealth Details": "multitext",
+    "Conflict Level": "number",
+    "Conflict Details": "multitext",
+    "Economy Type": "multitext",
+    "Economy Details": "multitext",
+    "Buy": "number",
+    "Sell": "number",
+    "Giant": "checkbox"
+  }
+}

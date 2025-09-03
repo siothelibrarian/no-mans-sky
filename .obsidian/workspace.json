@@ -13,15 +13,156 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Edelekho XVI.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Edelekho XVI"
+            }
+          },
+          {
+            "id": "bd25a63362f7ace5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amskyvi XVIII.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Amskyvi XVIII"
+            }
+          },
+          {
+            "id": "0395789aaa1148b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Triple XV.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Triple XV"
+            }
+          },
+          {
+            "id": "328835db2dd9d334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Peorgin-Toze.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Peorgin-Toze"
+            }
+          },
+          {
+            "id": "bc907316567a3079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jongushi.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Jongushi"
+            }
+          },
+          {
+            "id": "e230a3d90d1ce874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ukhumie-Ogno XII.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ukhumie-Ogno XII"
+            }
+          },
+          {
+            "id": "cc4cf21fc8826fe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tolimysk.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tolimysk"
+            }
+          },
+          {
+            "id": "2eeeee86d43a520a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Carosse-Lomu XIII.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Carosse-Lomu XIII"
+            }
+          },
+          {
+            "id": "d72234012c4796f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kofordo.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Kofordo"
+            }
+          },
+          {
+            "id": "af6fdd1e55d9cd16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Systems/Inohes-Yondas XI.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Inohes-Yondas XI"
+            }
+          },
+          {
+            "id": "664ab2752fdb66ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verilsky.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Verilsky"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -140,12 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Systems/Inohes-Yondas XI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Inohes-Yondas XI"
             }
           },
           {
@@ -178,8 +320,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abf5d6658f67e4aa",
+  "active": "1ed137923a2d1d3c",
   "lastOpenFiles": [
+    "Forfreykj XVII.md",
+    "Kofordo.md",
+    "Carosse-Lomu XIII.md",
+    "Tolimysk.md",
+    "Ukhumie-Ogno XII.md",
+    "Jongushi.md",
+    "Peorgin-Toze.md",
+    "templates/system.md",
+    "Triple XV.md",
+    "Amskyvi XVIII.md",
+    "Edelekho XVI.md",
+    "Verilsky.md",
+    "Systems.base",
+    "Systems/Inohes-Yondas XI.md",
+    "templates",
+    "README.md",
+    "Systems",
     "no-mans-sky",
     "Welcome.md"
   ]
