@@ -137,14 +137,13 @@
             "id": "af6fdd1e55d9cd16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Systems/Inohes-Yondas XI.md",
-                "mode": "source",
-                "source": true
+                "file": "Systems.base",
+                "viewName": "Systems"
               },
-              "icon": "lucide-file",
-              "title": "Inohes-Yondas XI"
+              "icon": "lucide-table",
+              "title": "Systems"
             }
           },
           {
@@ -281,13 +280,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/Inohes-Yondas XI.md",
+                "file": "Systems.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Inohes-Yondas XI"
+              "title": "Outline of Systems"
             }
           },
           {
@@ -320,8 +319,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ed137923a2d1d3c",
+  "active": "af6fdd1e55d9cd16",
   "lastOpenFiles": [
+    "Systems/Inohes-Yondas XI.md",
+    "Systems.base",
     "Forfreykj XVII.md",
     "Kofordo.md",
     "Carosse-Lomu XIII.md",
@@ -334,8 +335,6 @@
     "Amskyvi XVIII.md",
     "Edelekho XVI.md",
     "Verilsky.md",
-    "Systems.base",
-    "Systems/Inohes-Yondas XI.md",
     "templates",
     "README.md",
     "Systems",
