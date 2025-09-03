@@ -28,16 +28,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tehama.md",
+                "file": "Nasborut.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tehama"
+              "title": "Nasborut"
+            }
+          },
+          {
+            "id": "0a2a0f76e02f565a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nitsyonoy.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Nitsyonoy"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,66 +115,18 @@
             }
           },
           {
-            "id": "03eefc1ea66ec27f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Tehama.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Tehama"
-            }
-          },
-          {
-            "id": "0cd76e0a6a209b3f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Tehama.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Tehama"
-            }
-          },
-          {
             "id": "2745eaf20401ecc6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tehama.md",
+                "file": "Nitsyonoy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tehama"
-            }
-          },
-          {
-            "id": "b2ce5f42ff0caf49",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Outline of Nitsyonoy"
             }
           }
         ],
@@ -193,6 +159,10 @@
   },
   "active": "1ed137923a2d1d3c",
   "lastOpenFiles": [
+    "Galaxy Maps/Nitsyonoy.png",
+    "Nasborut.md",
+    "Nitsyonoy.md",
+    "Tehama.md",
     "Galaxy Maps/Tehama.png",
     "Systems.base",
     "Labino.md",
@@ -208,7 +178,6 @@
     "Ritaic-Hampt.md",
     "Axilia-Noo.md",
     "Hutyomo-Aiya.md",
-    "Nasborut.md",
     "Udutogq.md",
     "Irfiel.md",
     "Blacey.md",
@@ -218,7 +187,6 @@
     "Rihemi-Amp.md",
     "Lukkadjar XVIII.md",
     "Zushin VI.md",
-    "Tehama.md",
     "Eudint-Ovy.md",
     "Planet Maps/Labino.png",
     "Planet Maps",
@@ -226,7 +194,6 @@
     "Pateleat XV.md",
     "Galaxy Map/Pateleat XV 1.png",
     "Galaxy Maps",
-    "Yinsky.md",
     "templates",
     "Systems",
     "no-mans-sky"
