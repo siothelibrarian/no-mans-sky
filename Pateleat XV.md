@@ -7,7 +7,7 @@ System: Pateleat XV
 Region: Indtia Quadrant
 Galaxy: Euclid
 Description:
-Star Color: 
+Star Color:
 Spectral Class: E3p
 Suns:
 Water: true
@@ -17,12 +17,13 @@ Giant:
 Planets:
 Moons:
 Local Species: Korvax
-Wealth Level: 
-Wealth Details: 
+Wealth Level:
+Wealth Details:
 Conflict Level: Outlaw
 Conflict Details: Pirate Controlled
 Economy Type: Technology
 Economy Details: High Tech
 Buy: -22
 Sell: 40
+Map Image: Galaxy Map/Pateleat XV.png
 ---

@@ -33,6 +33,7 @@ views:
       - Buy
       - Sell
       - Guild
+      - Map Image
     sort:
       - property: file.ctime
         direction: DESC
