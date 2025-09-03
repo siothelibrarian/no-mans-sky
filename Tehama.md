@@ -1,28 +1,30 @@
 ---
-Discovery Date: 
+Discovery Date: 2025-04-20
 Discovered By:
 Glyphs URL:
 Portal Code:
 System: Tehama
-Region: 
+Region: Indtia Quadrant
 Galaxy: Euclid
 Description:
 Star Color: Yellow
 Spectral Class:
+  - F0p
 Suns:
-Water:
-Dissonance:
-Black Hole:
-Giant:
+Water: true
+Dissonance: false
+Black Hole: false
+Giant: false
 Planets:
 Moons:
-Local Species:
-Wealth Level: 
-Wealth Details: 
+Local Species: Korvax
+Wealth Level: 1
+Wealth Details: Fledgling
 Conflict Level:
 Conflict Details:
-Economy Type: 
-Economy Details: 
-Buy:
-Sell:
+Economy Type: Scientific
+Economy Details: Scientific
+Buy: -25
+Sell: 40
+Galaxy Map Image: "[[Tehama.png]]"
 ---
