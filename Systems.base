@@ -36,7 +36,6 @@ views:
       - Buy
       - Sell
       - Guild
-      - Map Image
       - Planet Map Image
       - Galaxy Map Image
     sort:

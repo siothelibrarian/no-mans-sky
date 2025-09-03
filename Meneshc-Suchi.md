@@ -1,28 +1,29 @@
 ---
 Discovery Date: 2025-04-20
-Discovered By:
+Discovered By: tatsutron
 Glyphs URL:
 Portal Code:
 System: Meneshc-Suchi
-Region:
+Region: Obushan
 Galaxy: Euclid
 Description:
 Star Color:
 Spectral Class:
 Suns:
-Water:
-Dissonance:
-Black Hole:
-Giant:
+Water: false
+Dissonance: true
+Black Hole: false
+Giant: false
 Planets:
 Moons:
-Local Species:
-Wealth Level:
-Wealth Details:
+Local Species: Korvax
+Wealth Level: 2
+Wealth Details: Satisfactory
 Conflict Level:
 Conflict Details:
-Economy Type:
-Economy Details:
-Buy:
-Sell:
+Economy Type: Technology
+Economy Details: High Tech
+Buy: -15
+Sell: 51
+Galaxy Map Image: "[[Meneshc-Suchi.png]]"
 ---

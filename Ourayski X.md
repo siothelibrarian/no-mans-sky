@@ -1,28 +1,29 @@
 ---
-Discovery Date: 
+Discovery Date: 2025-04-16
 Discovered By:
 Glyphs URL:
 Portal Code:
 System: Ourayski X
-Region: 
+Region: Obushan
 Galaxy: Euclid
 Description:
-Star Color: 
-Spectral Class:
+Star Color: Yellow
+Spectral Class: F3p
 Suns:
-Water:
-Dissonance:
-Black Hole:
-Giant:
+Water: true
+Dissonance: false
+Black Hole: false
+Giant: false
 Planets:
 Moons:
-Local Species:
-Wealth Level: 
-Wealth Details: 
+Local Species: Korvax
+Wealth Level: 3
+Wealth Details: High Supply
 Conflict Level:
 Conflict Details:
-Economy Type: 
-Economy Details: 
-Buy:
-Sell:
+Economy Type: Trading
+Economy Details: Mercantile
+Buy: -13
+Sell: 54
+Galaxy Map Image:
 ---

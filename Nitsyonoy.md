@@ -26,5 +26,5 @@ Economy Details: Power Generation
 Buy: -27
 Sell: 62
 Galaxy Map Image: "[[Nitsyonoy.png]]"
-Map Image: "[[Nitsyonoy.png]]"
+
 ---

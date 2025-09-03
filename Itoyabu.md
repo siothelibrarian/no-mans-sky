@@ -11,18 +11,18 @@ Star Color: Yellow
 Spectral Class:
 Suns:
 Water:
-Dissonance: 
+Dissonance:
 Black Hole:
 Giant:
 Planets:
 Moons:
 Local Species:
 Wealth Level: 3
-Wealth Details: High-Supply
+Wealth Details: High Supply
 Conflict Level:
 Conflict Details:
-Economy Type: 
-Economy Details: 
+Economy Type:
+Economy Details:
 Buy:
 Sell:
 ---

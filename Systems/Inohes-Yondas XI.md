@@ -25,4 +25,5 @@ Sell: 71
 Description: Ecken V (Tropical, Dissonant) is a beautiful planet with bubbles everywhere, teal grass, purple mountains, and red and yellow plants. Flit II (Icy, High Sentinel Activity) has salvageable scrap. Otira Tau (Grassy) Aterras Beta (Corrosive, High Sentinel Activity)
 Portal Code: 117D026ED061
 Giant: false
+Galaxy Map Image: "[[Inohes-Yondas XI.png]]"
 ---

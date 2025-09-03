@@ -27,7 +27,6 @@ Buy: -24
 Sell: 64
 Planet Map Image: "[[Planet Maps/Labino.png]]"
 Galaxy Map Image: "[[Galaxy Maps/Labino.png]]"
-Map Image: "[[Galaxy Maps/Labino.png]]"
 ---
 
 ## Planets

@@ -4,25 +4,26 @@ Discovered By:
 Glyphs URL:
 Portal Code:
 System: Attigum
-Region:
+Region: Obushan
 Galaxy: Euclid
 Description:
-Star Color:
-Spectral Class:
+Star Color: Yellow
+Spectral Class: F2f
 Suns:
-Water:
-Dissonance:
-Black Hole:
-Giant:
+Water: true
+Dissonance: false
+Black Hole: false
+Giant: false
 Planets:
 Moons:
-Local Species:
-Wealth Level:
-Wealth Details:
+Local Species: Gek
+Wealth Level: 3
+Wealth Details: Prosperous
 Conflict Level:
 Conflict Details:
-Economy Type:
-Economy Details:
-Buy:
-Sell:
+Economy Type: Scientific
+Economy Details: Scientific
+Buy: -25
+Sell: 50
+Galaxy Map Image: "[[Attigum.png]]"
 ---

@@ -1,30 +1,31 @@
 ---
-Discovery Date: 
-Discovered By:
+Discovery Date: 2025-04-20
+Discovered By: tatsutron
 Glyphs URL:
 Portal Code:
 System: Tephiusal I
-Region: 
+Region: Enorixin Mass
 Galaxy: Euclid
 Description:
-Star Color: 
-Spectral Class:
+Star Color: Green
+Spectral Class: E1p
 Suns:
-Water:
-Dissonance:
-Black Hole:
-Giant:
+Water: true
+Dissonance: false
+Black Hole: false
+Giant: false
 Planets:
 Moons:
-Local Species:
+Local Species: Gek
 Wealth Level: 3
 Wealth Details: Prosperous
 Conflict Level:
 Conflict Details:
 Economy Type: Advanced Materials
 Economy Details: Advanced Materials
-Buy:
-Sell:
+Buy: -26
+Sell: 54
+Galaxy Map Image: "[[Tephiusal I.png]]"
 ---
 
 had Chlorine as of 2025-04-16

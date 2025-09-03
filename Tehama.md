@@ -26,5 +26,4 @@ Economy Details: Scientific
 Buy: -25
 Sell: 40
 Galaxy Map Image: "[[Tehama.png]]"
-Map Image: "[[Tehama.png]]"
 ---
