@@ -11,13 +11,26 @@
             "id": "74247ddb5e3e7ae8",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "image",
               "state": {
-                "file": "Systems.base",
-                "viewName": "Systems"
+                "file": "Galaxy Map/Pateleat XV.png"
               },
-              "icon": "lucide-table",
-              "title": "Systems"
+              "icon": "lucide-image",
+              "title": "Pateleat XV"
+            }
+          },
+          {
+            "id": "488a77fc4ce5619e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pateleat XV.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Pateleat XV"
             }
           }
         ]
@@ -89,12 +102,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems.base",
+                "file": "Galaxy Map/Pateleat XV.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Systems"
+              "title": "Outgoing links from Pateleat XV"
             }
           },
           {
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems.base",
+                "file": "Galaxy Map/Pateleat XV.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Systems"
+              "title": "Backlinks for Pateleat XV"
             }
           },
           {
@@ -122,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems.base",
+                "file": "Galaxy Map/Pateleat XV.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Systems"
+              "title": "Outline of Pateleat XV"
             }
           },
           {
@@ -176,8 +189,11 @@
   },
   "active": "1ed137923a2d1d3c",
   "lastOpenFiles": [
-    "Yinsky.md",
     "Systems.base",
+    "Galaxy Map/Pateleat XV.png",
+    "Galaxy Map",
+    "Pateleat XV.md",
+    "Yinsky.md",
     "Uppsion-Nagd.md",
     "Ogxund-Ikean XIII.md",
     "Nemmobir VI.md",
@@ -201,7 +217,6 @@
     "Peorgin-Toze.md",
     "Triple XV.md",
     "Amskyvi XVIII.md",
-    "Edelekho XVI.md",
     "templates",
     "Systems",
     "no-mans-sky"
