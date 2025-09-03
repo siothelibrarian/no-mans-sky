@@ -11,7 +11,7 @@ Star Color: Green
 Spectral Class:
 Suns:
 Water:
-Dissonance: 
+Dissonance:
 Black Hole:
 Giant:
 Planets:
@@ -25,5 +25,5 @@ Economy Type:
 Economy Details:
 Buy:
 Sell:
-Guild: 
+Guild:
 ---

@@ -37,7 +37,10 @@ views:
       - Sell
       - Guild
       - Map Image
+      - Planet Map Image
     sort:
+      - property: Moons
+        direction: ASC
       - property: Map Image
         direction: ASC
       - property: file.ctime
