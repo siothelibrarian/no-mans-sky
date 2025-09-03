@@ -21,10 +21,11 @@ Wealth Level: 3
 Wealth Details: Prosperous
 Conflict Level:
 Conflict Details:
-Economy Type: 
-Economy Details: 
+Economy Type:
+Economy Details:
 Buy:
 Sell:
+Guild: Mercenary
 ---
 
 Mercenary Guild

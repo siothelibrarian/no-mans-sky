@@ -1,28 +1,29 @@
 ---
-Discovery Date: 2025-03-24
+Discovery Date: 
 Discovered By:
 Glyphs URL:
 Portal Code:
-System: Eudint-Ovy
-Region: Erukis
+System: Uppsion-Nagd
+Region: 
 Galaxy: Euclid
 Description:
-Star Color: Yellow
+Star Color: 
 Spectral Class:
 Suns:
 Water:
-Dissonance: true
+Dissonance:
 Black Hole:
 Giant:
 Planets:
 Moons:
 Local Species:
 Wealth Level: 3
-Wealth Details: Wealthy
+Wealth Details: Prosperous
 Conflict Level:
 Conflict Details:
-Economy Type:
-Economy Details:
+Economy Type: 
+Economy Details: 
 Buy:
 Sell:
+Guild:
 ---

@@ -34,11 +34,13 @@ views:
       - Sell
       - Guild
     sort:
+      - property: file.ctime
+        direction: DESC
+      - property: file.name
+        direction: DESC
       - property: Spectral Class
         direction: DESC
       - property: URL
-        direction: ASC
-      - property: file.name
         direction: ASC
     columnSize:
       note.Portal Code: 107

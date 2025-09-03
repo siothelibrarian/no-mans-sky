@@ -1,30 +1,29 @@
 ---
-Discovery Date: 2025-03-24
+Discovery Date: 
 Discovered By:
 Glyphs URL:
 Portal Code:
-System: Yanhuij XIV
-Region: Pummit Conflux
+System: Yinsky
+Region: 
 Galaxy: Euclid
 Description:
-Star Color: Yellow
+Star Color: 
 Spectral Class:
 Suns:
 Water:
-Dissonance: true
+Dissonance:
 Black Hole:
 Giant:
 Planets:
 Moons:
 Local Species:
-Wealth Level: 3
-Wealth Details: Opulent
+Wealth Level: 
+Wealth Details: 
 Conflict Level:
 Conflict Details:
 Economy Type: 
 Economy Details: 
 Buy:
 Sell:
+Guild: Merchants
 ---
-
-Mercenary Guild
