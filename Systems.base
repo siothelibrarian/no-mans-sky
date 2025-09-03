@@ -1,6 +1,9 @@
 filters:
   and:
     - "!System.isEmpty()"
+properties:
+  note.Map Image:
+    displayName: Galaxy Map Image
 views:
   - type: table
     name: Systems
@@ -35,6 +38,8 @@ views:
       - Guild
       - Map Image
     sort:
+      - property: Map Image
+        direction: ASC
       - property: file.ctime
         direction: DESC
       - property: file.name

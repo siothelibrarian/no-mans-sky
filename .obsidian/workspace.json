@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Galaxy Map/Pateleat XV.png"
+                "file": "Galaxy Maps/Pateleat XV.png"
               },
               "icon": "lucide-image",
               "title": "Pateleat XV"
@@ -191,10 +191,10 @@
   "lastOpenFiles": [
     "Pateleat XV.md",
     "Systems.base",
-    "Galaxy Map/Pateleat XV.png",
+    "Galaxy Maps/Pateleat XV.png",
     "Galaxy Map/Pateleat XV 1.png",
     "Untitled.md",
-    "Galaxy Map",
+    "Galaxy Maps",
     "Yinsky.md",
     "Uppsion-Nagd.md",
     "Ogxund-Ikean XIII.md",
