@@ -3,11 +3,11 @@ Discovery Date: 2025-03-24
 Discovered By:
 Glyphs URL:
 Portal Code:
-System: Kofordo
+System: Hudderr XV
 Region: Enorixin Mass
 Galaxy: Euclid
 Description:
-Star Color: Red
+Star Color: Yellow
 Spectral Class:
 Suns:
 Water:
@@ -18,16 +18,11 @@ Planets:
 Moons:
 Local Species:
 Wealth Level: 3
-Wealth Details: Opulent
+Wealth Details: Flourishing
 Conflict Level:
 Conflict Details:
 Economy Type: 
 Economy Details: 
 Buy:
 Sell:
-Guild: Explorers
 ---
-
-Explorer's Guild (Salvaged Frigate Module)
-Multitool: Prayers of Harmony, (29-slot A Class)
-

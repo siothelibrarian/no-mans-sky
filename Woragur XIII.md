@@ -3,31 +3,26 @@ Discovery Date: 2025-03-24
 Discovered By:
 Glyphs URL:
 Portal Code:
-System: Kofordo
+System: Woragur XIII
 Region: Enorixin Mass
 Galaxy: Euclid
 Description:
-Star Color: Red
+Star Color: Yellow
 Spectral Class:
 Suns:
 Water:
-Dissonance:
+Dissonance: true
 Black Hole:
 Giant:
 Planets:
 Moons:
 Local Species:
 Wealth Level: 3
-Wealth Details: Opulent
+Wealth Details: Affluent
 Conflict Level:
 Conflict Details:
 Economy Type: 
 Economy Details: 
 Buy:
 Sell:
-Guild: Explorers
 ---
-
-Explorer's Guild (Salvaged Frigate Module)
-Multitool: Prayers of Harmony, (29-slot A Class)
-

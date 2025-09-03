@@ -3,15 +3,15 @@ Discovery Date: 2025-03-24
 Discovered By:
 Glyphs URL:
 Portal Code:
-System: Kofordo
-Region: Enorixin Mass
+System: Yanhuij XIV
+Region: Pummit Conflux
 Galaxy: Euclid
 Description:
-Star Color: Red
+Star Color: Yellow
 Spectral Class:
 Suns:
 Water:
-Dissonance:
+Dissonance: true
 Black Hole:
 Giant:
 Planets:
@@ -25,9 +25,6 @@ Economy Type:
 Economy Details: 
 Buy:
 Sell:
-Guild: Explorers
 ---
 
-Explorer's Guild (Salvaged Frigate Module)
-Multitool: Prayers of Harmony, (29-slot A Class)
-
+Mercenary Guild

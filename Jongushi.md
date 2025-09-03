@@ -23,6 +23,7 @@ Conflict Level:
 Conflict Details:
 Economy Type: 
 Economy Details: 
+Guild: Mercenary
 Buy:
 Sell:
 ---

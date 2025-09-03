@@ -4,137 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d4f8f16729dc2c74",
+        "id": "19128d5f2215378b",
         "type": "tabs",
         "children": [
           {
-            "id": "abf5d6658f67e4aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Edelekho XVI.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Edelekho XVI"
-            }
-          },
-          {
-            "id": "bd25a63362f7ace5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amskyvi XVIII.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Amskyvi XVIII"
-            }
-          },
-          {
-            "id": "0395789aaa1148b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Triple XV.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Triple XV"
-            }
-          },
-          {
-            "id": "328835db2dd9d334",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Peorgin-Toze.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Peorgin-Toze"
-            }
-          },
-          {
-            "id": "bc907316567a3079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jongushi.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Jongushi"
-            }
-          },
-          {
-            "id": "e230a3d90d1ce874",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ukhumie-Ogno XII.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ukhumie-Ogno XII"
-            }
-          },
-          {
-            "id": "cc4cf21fc8826fe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tolimysk.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tolimysk"
-            }
-          },
-          {
-            "id": "2eeeee86d43a520a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Carosse-Lomu XIII.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Carosse-Lomu XIII"
-            }
-          },
-          {
-            "id": "d72234012c4796f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kofordo.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Kofordo"
-            }
-          },
-          {
-            "id": "af6fdd1e55d9cd16",
+            "id": "74247ddb5e3e7ae8",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -145,23 +19,8 @@
               "icon": "lucide-table",
               "title": "Systems"
             }
-          },
-          {
-            "id": "664ab2752fdb66ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Verilsky.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Verilsky"
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,6 +44,16 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
+            }
+          },
+          {
+            "id": "1ed137923a2d1d3c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -213,27 +82,28 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "5e28ece40ffd6dbe",
-    "type": "split",
-    "children": [
-      {
-        "id": "e27a69798ba6a492",
-        "type": "tabs",
-        "children": [
+          },
+          {
+            "id": "03eefc1ea66ec27f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Systems.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Systems"
+            }
+          },
           {
             "id": "0cd76e0a6a209b3f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Systems.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,35 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "03eefc1ea66ec27f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "b2ce5f42ff0caf49",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Backlinks for Systems"
             }
           },
           {
@@ -290,21 +132,34 @@
             }
           },
           {
-            "id": "1ed137923a2d1d3c",
+            "id": "b2ce5f42ff0caf49",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
+  },
+  "right": {
+    "id": "5e28ece40ffd6dbe",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,22 +174,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af6fdd1e55d9cd16",
+  "active": "74247ddb5e3e7ae8",
   "lastOpenFiles": [
-    "Systems/Inohes-Yondas XI.md",
-    "Systems.base",
-    "Forfreykj XVII.md",
     "Kofordo.md",
+    "Systems.base",
+    "Atsuru-Irma.md",
+    "Uwajiman XVIII.md",
+    "Eudint-Ovy.md",
+    "Eskiye-Vidi XIII.md",
+    "Jongushi.md",
+    "Yanhuij XIV.md",
+    "Forfreykj XVII.md",
+    "Hudderr XV.md",
+    "Woragur XIII.md",
+    "Nemmobir VI.md",
+    "Itoyabu.md",
+    "Verilsky.md",
     "Carosse-Lomu XIII.md",
     "Tolimysk.md",
     "Ukhumie-Ogno XII.md",
-    "Jongushi.md",
     "Peorgin-Toze.md",
-    "templates/system.md",
     "Triple XV.md",
     "Amskyvi XVIII.md",
     "Edelekho XVI.md",
-    "Verilsky.md",
+    "Systems/Inohes-Yondas XI.md",
+    "templates/system.md",
     "templates",
     "README.md",
     "Systems",
