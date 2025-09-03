@@ -31,9 +31,23 @@
               "icon": "lucide-table",
               "title": "Systems"
             }
+          },
+          {
+            "id": "08f7f7725252cac1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pateleat XV.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Pateleat XV"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems.base",
+                "file": "Pateleat XV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Systems"
+              "title": "Outgoing links from Pateleat XV"
             }
           },
           {
@@ -116,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems.base",
+                "file": "Pateleat XV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Systems"
+              "title": "Backlinks for Pateleat XV"
             }
           },
           {
@@ -135,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems.base",
+                "file": "Pateleat XV.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Systems"
+              "title": "Outline of Pateleat XV"
             }
           },
           {
@@ -189,9 +203,9 @@
   },
   "active": "1ed137923a2d1d3c",
   "lastOpenFiles": [
-    "Pateleat XV.md",
     "Systems.base",
     "Galaxy Maps/Pateleat XV.png",
+    "Pateleat XV.md",
     "Galaxy Map/Pateleat XV 1.png",
     "Untitled.md",
     "Galaxy Maps",

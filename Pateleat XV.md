@@ -25,5 +25,5 @@ Economy Type: Technology
 Economy Details: High Tech
 Buy: -22
 Sell: 40
-Map Image: Galaxy Map/Pateleat XV.png
+Galaxy Map Image: [[Pateleat XV.png]]
 ---
