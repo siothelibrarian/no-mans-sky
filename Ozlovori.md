@@ -16,7 +16,7 @@ Black Hole: false
 Giant: false
 Planets: 5
 Moons: 0
-Local Species: Korvax
+Race: Korvax
 Wealth Level: 2
 Wealth Details: Promising
 Conflict Level: 2

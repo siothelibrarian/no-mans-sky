@@ -1,13 +1,13 @@
 ---
-Discovery Date: 2025-03-24
+Discovery Date: 2025-03-27
 Discovered By:
 Glyphs URL:
 Portal Code:
-System: Atsuru-Irma
-Region: Inqang
+System: Akoupo XI
+Region: Wakiha Fringe
 Galaxy: Euclid
 Description:
-Star Color: Yellow
+Star Color: Green
 Spectral Class:
 Suns:
 Water:
@@ -17,8 +17,8 @@ Giant:
 Planets:
 Moons:
 Race:
-Wealth Level: 3
-Wealth Details: Flourishing
+Wealth Level: 2
+Wealth Details: Balanced
 Conflict Level:
 Conflict Details:
 Economy Type:

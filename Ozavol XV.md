@@ -1,28 +1,29 @@
 ---
-Discovery Date: 
+Discovery Date:
 Discovered By:
 Glyphs URL:
 Portal Code:
 System: Ozavol XV
-Region: 
+Region: Obushan
 Galaxy: Euclid
 Description:
 Star Color: Yellow
-Spectral Class:
+Spectral Class: G1p
 Suns:
-Water:
-Dissonance:
-Black Hole:
-Giant:
+Water: true
+Dissonance: false
+Black Hole: false
+Giant: false
 Planets:
 Moons:
-Local Species:
-Wealth Level: 
-Wealth Details: 
+Race:
+Wealth Level: 2
+Wealth Details: Satisfactory
 Conflict Level:
 Conflict Details:
-Economy Type: 
-Economy Details: 
-Buy:
-Sell:
+Economy Type: Advanced Materials
+Economy Details:
+Buy: -15
+Sell: 46
+Galaxy Map Image: "[[Ozavol XV.png]]"
 ---

@@ -16,7 +16,7 @@ Black Hole: false
 Giant:
 Planets:
 Moons:
-Local Species: Gek
+Race: Gek
 Wealth Level: 2
 Wealth Details: Developing
 Conflict Level:

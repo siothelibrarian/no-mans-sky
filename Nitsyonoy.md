@@ -16,7 +16,7 @@ Black Hole: false
 Giant: false
 Planets:
 Moons:
-Local Species: Korvax
+Race: Korvax
 Wealth Level: 2
 Wealth Details: Comfortable
 Conflict Level:
@@ -26,5 +26,4 @@ Economy Details: Power Generation
 Buy: -27
 Sell: 62
 Galaxy Map Image: "[[Nitsyonoy.png]]"
-
 ---

@@ -16,7 +16,7 @@ Black Hole: false
 Giant: false
 Planets:
 Moons:
-Local Species: Gek
+Race: Gek
 Wealth Level: 3
 Wealth Details: Prosperous
 Conflict Level:

@@ -16,7 +16,7 @@ Black Hole: false
 Giant: false
 Planets:
 Moons:
-Local Species: Korvax
+Race: Korvax
 Wealth Level: 3
 Wealth Details: High Supply
 Conflict Level: 3

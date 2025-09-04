@@ -1,28 +1,29 @@
 ---
-Discovery Date: 
+Discovery Date:
 Discovered By:
 Glyphs URL:
 Portal Code:
 System: Nezawa
-Region: 
+Region: Ladakhm Instability
 Galaxy: Euclid
 Description:
 Star Color: Yellow
-Spectral Class:
+Spectral Class: F0pf
 Suns:
-Water:
-Dissonance:
-Black Hole:
-Giant:
+Water: false
+Dissonance: true
+Black Hole: false
+Giant: false
 Planets:
 Moons:
-Local Species:
-Wealth Level: 
-Wealth Details: 
+Race: Gek
+Wealth Level: 2
+Wealth Details: Adequate
 Conflict Level:
 Conflict Details:
-Economy Type: 
-Economy Details: 
-Buy:
-Sell:
+Economy Type: Manufacturing
+Economy Details:
+Buy: -12
+Sell: 40
+Galaxy Map Image: "[[Nezawa.png]]"
 ---

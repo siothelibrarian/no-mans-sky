@@ -13,7 +13,7 @@ Dissonance: true
 Black Hole: false
 Planets: 4
 Moons: 0
-Local Species: Gek
+Race: Gek
 Wealth Level: 3
 Wealth Details: Affluent
 Conflict Level: 1

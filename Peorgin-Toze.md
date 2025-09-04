@@ -4,7 +4,7 @@ Discovered By:
 Glyphs URL:
 Portal Code:
 System: Peorgin-Toze
-Region: 
+Region:
 Galaxy: Euclid
 Description:
 Star Color: Yellow
@@ -16,13 +16,13 @@ Black Hole:
 Giant:
 Planets:
 Moons:
-Local Species:
+Race:
 Wealth Level: 3
 Wealth Details: Advanced
 Conflict Level:
 Conflict Details:
-Economy Type: 
-Economy Details: 
+Economy Type:
+Economy Details:
 Buy:
 Sell:
 ---

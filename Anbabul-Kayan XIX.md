@@ -1,28 +1,29 @@
 ---
-Discovery Date: 
+Discovery Date:
 Discovered By:
 Glyphs URL:
 Portal Code:
 System: Anbabul-Kayan XIX
-Region: 
+Region: Wakiha Fringe
 Galaxy: Euclid
 Description:
 Star Color: Yellow
-Spectral Class:
+Spectral Class: F5p
 Suns:
-Water:
-Dissonance:
-Black Hole:
-Giant:
+Water: true
+Dissonance: false
+Black Hole: false
+Giant: false
 Planets:
 Moons:
-Local Species:
-Wealth Level: 
-Wealth Details: 
+Race: Korvax
+Wealth Level: 2
+Wealth Details: Adequate
 Conflict Level:
 Conflict Details:
-Economy Type: 
-Economy Details: 
-Buy:
-Sell:
+Economy Type: Manufacturing
+Economy Details:
+Buy: -10
+Sell: 63
+Galaxy Map Image: "[[Anbabul-Kayan XIX.png]]"
 ---

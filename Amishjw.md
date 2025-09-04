@@ -1,13 +1,13 @@
 ---
-Discovery Date: 2025-03-24
+Discovery Date:
 Discovered By:
 Glyphs URL:
 Portal Code:
-System: Atsuru-Irma
-Region: Inqang
+System: Amishjw
+Region:
 Galaxy: Euclid
 Description:
-Star Color: Yellow
+Star Color:
 Spectral Class:
 Suns:
 Water:
@@ -17,8 +17,8 @@ Giant:
 Planets:
 Moons:
 Race:
-Wealth Level: 3
-Wealth Details: Flourishing
+Wealth Level:
+Wealth Details:
 Conflict Level:
 Conflict Details:
 Economy Type:

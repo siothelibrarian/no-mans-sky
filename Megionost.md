@@ -1,10 +1,10 @@
 ---
-Discovery Date: 
+Discovery Date:
 Discovered By:
 Glyphs URL:
 Portal Code:
 System: Megionost
-Region: 
+Region:
 Galaxy: Euclid
 Description:
 Star Color: Yellow
@@ -16,13 +16,13 @@ Black Hole:
 Giant:
 Planets:
 Moons:
-Local Species:
-Wealth Level: 
-Wealth Details: 
+Race:
+Wealth Level:
+Wealth Details:
 Conflict Level:
 Conflict Details:
-Economy Type: 
-Economy Details: 
+Economy Type:
+Economy Details:
 Buy:
 Sell:
 ---

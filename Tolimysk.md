@@ -4,7 +4,7 @@ Discovered By:
 Glyphs URL:
 Portal Code:
 System: Tolimysk
-Region: 
+Region:
 Galaxy: Euclid
 Description:
 Star Color: Yellow
@@ -16,13 +16,13 @@ Black Hole:
 Giant:
 Planets:
 Moons:
-Local Species:
+Race:
 Wealth Level: 1
 Wealth Details: Struggling
 Conflict Level:
 Conflict Details:
-Economy Type: 
-Economy Details: 
+Economy Type:
+Economy Details:
 Buy:
 Sell:
 ---

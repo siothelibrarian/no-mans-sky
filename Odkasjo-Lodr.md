@@ -1,13 +1,13 @@
 ---
-Discovery Date: 
+Discovery Date:
 Discovered By:
 Glyphs URL:
 Portal Code:
 System: Odkasjo-Lodr
-Region: 
+Region:
 Galaxy: Euclid
 Description:
-Star Color: 
+Star Color:
 Spectral Class:
 Suns:
 Water:
@@ -16,7 +16,7 @@ Black Hole:
 Giant:
 Planets:
 Moons:
-Local Species:
+Race:
 Wealth Level: 2
 Wealth Details: Promising
 Conflict Level:

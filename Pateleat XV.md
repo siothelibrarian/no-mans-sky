@@ -16,7 +16,7 @@ Black Hole: false
 Giant:
 Planets:
 Moons:
-Local Species: Korvax
+Race: Korvax
 Wealth Level:
 Wealth Details: Black Market
 Conflict Level:

@@ -1,10 +1,10 @@
 ---
 Discovery Date: 2025-03-24
-Discovered By:
+Discovered By: tatsutron
 Glyphs URL:
 Portal Code:
-System: Atsuru-Irma
-Region: Inqang
+System: Yanhuij XIV
+Region: Pummit Conflux
 Galaxy: Euclid
 Description:
 Star Color: Yellow
@@ -18,11 +18,12 @@ Planets:
 Moons:
 Race:
 Wealth Level: 3
-Wealth Details: Flourishing
+Wealth Details: Opulent
 Conflict Level:
 Conflict Details:
 Economy Type:
 Economy Details:
 Buy:
 Sell:
+Guild: Mercenary
 ---

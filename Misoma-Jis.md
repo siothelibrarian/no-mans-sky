@@ -1,16 +1,16 @@
 ---
-Discovery Date: 2025-04-10
+Discovery Date: 2025-04-05
 Discovered By:
 Glyphs URL:
 Portal Code:
-System: Kuyushijo
-Region: Ladakhm Instability
+System: Misoma-Jis
+Region: Rituure Instability
 Galaxy: Euclid
 Description:
-Star Color: Yellow
-Spectral Class: G8
+Star Color: Blue
+Spectral Class: B4pf
 Suns:
-Water: false
+Water: true
 Dissonance: false
 Black Hole: false
 Giant: false
@@ -18,12 +18,12 @@ Planets:
 Moons:
 Race: Korvax
 Wealth Level: 3
-Wealth Details: Flourishing
+Wealth Details: Wealthy
 Conflict Level:
 Conflict Details:
 Economy Type: Trading
 Economy Details: Mercantile
-Buy: -15
-Sell: 75
-Galaxy Map Image: "[[Kuyushijo.png]]"
+Buy: -29
+Sell: 58
+Galaxy Map Image: "[[Misoma-Jis.jpg]]"
 ---

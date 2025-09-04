@@ -16,7 +16,7 @@ Black Hole: Yes
 Giant:
 Planets:
 Moons:
-Local Species:
+Race:
 Wealth Level:
 Wealth Details:
 Conflict Level:
