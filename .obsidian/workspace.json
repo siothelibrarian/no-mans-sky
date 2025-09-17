@@ -23,103 +23,49 @@
             }
           },
           {
-            "id": "8eb1c0b637a0ca65",
+            "id": "6efddaea8e3cece7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edelekho XVI.md",
+                "file": "Woragur XIII.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Edelekho XVI"
+              "title": "Woragur XIII"
             }
           },
           {
-            "id": "373c53ff0347e204",
+            "id": "b82ab1df2b0b11ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuyushijo.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Kuyushijo"
-            }
-          },
-          {
-            "id": "368237295eebf54c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Galaxy Maps/Inohes-Yondas XI.png"
-              },
-              "icon": "lucide-image",
-              "title": "Inohes-Yondas XI"
-            }
-          },
-          {
-            "id": "3be98cfd6b27b6d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systems/Inohes-Yondas XI.md",
+                "file": "Pohelis XVII.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Inohes-Yondas XI"
+              "title": "Pohelis XVII"
             }
           },
           {
-            "id": "f9bbc0b4706d8a9b",
+            "id": "b3eecd031665e2ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yakoma-Kur.md",
+                "file": "Soneho XVIII.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Yakoma-Kur"
-            }
-          },
-          {
-            "id": "0971d389be1b19e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Axilia-Noo.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Axilia-Noo"
-            }
-          },
-          {
-            "id": "a6a697b9d225bd68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Akoupo XI.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Akoupo XI"
+              "title": "Soneho XVIII"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -161,9 +107,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "riok",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -188,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems.base",
+                "file": "Soneho XVIII.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Systems"
+              "title": "Outline of Soneho XVIII"
             }
           },
           {
@@ -232,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Akoupo XI.md",
+                "file": "Soneho XVIII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Akoupo XI"
+              "title": "Backlinks for Soneho XVIII"
             }
           },
           {
@@ -251,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Akoupo XI.md",
+                "file": "Ezuohe XVIII.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Akoupo XI"
+              "title": "Outgoing links from Ezuohe XVIII"
             }
           },
           {
@@ -278,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 576,
     "collapsed": true
   },
   "left-ribbon": {
@@ -291,48 +237,51 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "1ed137923a2d1d3c",
   "lastOpenFiles": [
-    "Axilia-Noo.md",
-    "Akoupo XI.md",
-    "Yuxiang-Oevu X.md",
-    "Yanhuij XIV.md",
+    "templates/system.md",
+    "Soneho XVIII.md",
+    "Pohelis XVII.md",
+    "Woragur XIII.md",
+    "Upload to Glyphs/Sishiku.md",
+    "Upload to Glyphs/Riokak.md",
     "Systems.base",
-    "Yakoma-Kur.md",
-    "Misoma-Jis.md",
-    "Galaxy Maps/Misoma-Jis.jpg",
+    "Images/Sishiku - Ipleb Prime - Robot Dog.jpg",
+    "Images/Sishiku - Ipleb Prime - Sky.jpg",
+    "Planet Maps/Sishiku.jpg",
+    "Galaxy Maps/Sishiku.jpg",
+    "Images/Riokak - Jodyan Minor - Portal.jpg",
+    "Planet Maps/Riokak.jpg",
+    "Images/Riokak - Jodyan Minor.jpg",
+    "Images/Riokak - Jodyan Minor - Flower Creature.jpg",
+    "Galaxy Maps/Riokak.jpg",
+    "Upload to Glyphs/Verilsky.md",
+    "Agiangg XVII.md",
+    "Galaxy Maps/Verilsky.jpg",
+    "Images",
+    "Zamarits V.md",
+    "Ozovesy I.md",
     "Systems/Inohes-Yondas XI.md",
-    "Galaxy Maps/Inohes-Yondas XI.png",
-    "Yettaw XVII.md",
-    "Ozavol XV.md",
-    "Galaxy Maps/Ozavol XV.png",
-    "Anbabul-Kayan XIX.md",
-    "Galaxy Maps/Anbabul-Kayan XIX.png",
-    "Kikuchi XI.md",
-    "Kuyushijo.md",
-    "Galaxy Maps/Kuyushijo.png",
-    "Nezawa.md",
-    "Galaxy Maps/Nezawa.png",
-    "Ozlovori.md",
-    "Tehama.md",
-    "Galaxy Maps/Yakoma-Kur.png",
-    "Amishjw.md",
-    "Entsuk.md",
-    "Ihonjik-Udk.md",
-    "Edelekho XVI.md",
-    "Blacey.md",
-    "Galaxy Maps/Blacey.jpg",
-    "Sofilmni.md",
-    "Oinbaat.md",
-    "Maimao.md",
-    "Inxian.md",
-    "Megionost.md",
-    "Belevskyv.md",
-    "Planet Maps/Yakoma-Kur.png",
-    "Galaxy Maps/Nitsyonoy.png",
+    "Upload to Glyphs",
+    "Ezuohe XVIII.md",
+    "Rikhac-Taydu.md",
+    "Ranciss.md",
+    "Oridak.md",
+    "Bulgarl.md",
+    "Osairier I.md",
+    "Uginam IX.md",
+    "Sawatey.md",
+    "Iyodaita.md",
+    "Lovania XIII.md",
+    "Hantuyre.md",
+    "Yazmer.md",
+    "Asivily XIV.md",
+    "Uppsion-Nagd.md",
+    "Asiyksimin.md",
     "Planet Maps",
     "Galaxy Maps",
     "templates",

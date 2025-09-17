@@ -4,28 +4,29 @@ Discovered By:
 Glyphs URL:
 Portal Code:
 System: Uppsion-Nagd
-Region:
+Region: Enorixin Mass
 Galaxy: Euclid
 Description:
-Star Color:
-Spectral Class:
+Star Color: Yellow
+Spectral Class: F6
 Suns:
-Water:
-Dissonance:
-Black Hole:
-Giant:
+Water: true
+Dissonance: false
+Black Hole: false
+Giant: false
 Planets:
 Moons:
-Race:
+Race: Vy'keen
 Wealth Level: 3
 Wealth Details: Prosperous
 Conflict Level:
 Conflict Details:
 Economy Type: Mining
 Economy Details: Mining
-Buy:
-Sell:
+Buy: -26
+Sell: 67
 Guild:
+Galaxy Map Image:
 ---
 
 Had Chlorine on 2025-04-05

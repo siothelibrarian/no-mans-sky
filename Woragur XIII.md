@@ -18,11 +18,23 @@ Planets:
 Moons:
 Race:
 Wealth Level: 3
-Wealth Details: Affluent
-Conflict Level:
-Conflict Details:
-Economy Type:
-Economy Details:
+Wealth Details: Wealthy
+Conflict Level: 1
+Conflict Details: Peaceful
+Economy Type: Trading
+Economy Details: Mercantile
 Buy:
 Sell:
+Galaxy Map Image:
+Planet Map Image:
 ---
+
+## Planets
+
+## Moons
+
+## Images
+
+```query
+path:
+```

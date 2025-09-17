@@ -1,28 +1,30 @@
 ---
-Discovery Date:
-Discovered By:
+Discovery Date: 2023
+Discovered By: THRESSHOLD
 Glyphs URL:
 Portal Code:
 System: Uvsatvui
-Region:
+Region: Boyerus Expanse
 Galaxy: Euclid
 Description:
 Star Color: Yellow
-Spectral Class:
+Spectral Class: G3p
 Suns:
-Water:
-Dissonance:
-Black Hole:
-Giant:
-Planets:
-Moons:
-Race:
-Wealth Level:
-Wealth Details:
-Conflict Level:
+Water: true
+Dissonance: false
+Black Hole: false
+Giant: false
+Planets: 4
+Moons: 1
+Race: Gek
+Wealth Level: 3
+Wealth Details: Opulent
+Conflict Level: 3
 Conflict Details:
-Economy Type:
+Economy Type: Scientific
 Economy Details:
-Buy:
-Sell:
+Buy: -10
+Sell: 54
+Galaxy Map Image: "[[Uvsatvui.jpg]]"
+Planet Map Image: "[[Planet Maps/Uvsatvui.jpg]]"
 ---

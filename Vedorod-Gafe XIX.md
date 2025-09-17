@@ -7,7 +7,7 @@ System: Vedorod-Gafe XIX
 Region:
 Galaxy: Euclid
 Description:
-Star Color:
+Star Color: Yellow
 Spectral Class:
 Suns:
 Water:

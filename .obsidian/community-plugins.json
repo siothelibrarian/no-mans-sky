@@ -1,5 +1,7 @@
 [
   "dbfolder",
   "obsidian-git",
-  "auto-template-trigger"
+  "auto-template-trigger",
+  "dataview",
+  "templater-obsidian"
 ]

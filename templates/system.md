@@ -10,10 +10,10 @@ Description:
 Star Color:
 Spectral Class:
 Suns:
-Water:
-Dissonance:
-Black Hole:
-Giant:
+Water: false
+Dissonance: false
+Black Hole: false
+Giant: false
 Planets:
 Moons:
 Race:
@@ -25,4 +25,17 @@ Economy Type:
 Economy Details:
 Buy:
 Sell:
+Guild:
+Galaxy Map Image:
+Planet Map Image:
 ---
+
+## Planets
+
+## Moons
+
+## Images
+
+```query
+path:
+```
